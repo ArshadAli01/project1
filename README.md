@@ -1,2 +1,2 @@
-# Project1
+# Projects
 # Parallax effect website
